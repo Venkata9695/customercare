@@ -1,3 +1,4 @@
+
 //This is to test
 class HelloWorld 
 { 
@@ -5,6 +6,8 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        System.out.println("Hello, World"); 
+        System.out.println("Hello, World");
+	
+	System.out.println("Welcome to Git"); 
     } 
 } 
